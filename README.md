@@ -2,6 +2,9 @@
 
 # Iris
 
+## Why did you make this fork?
+This fork is intended to be a compatibility layer between GLES devices and Iris, originally intended to be used with QuestCraft. GL shaderpacks and GLES shaderpacks are only slightly different and only need a small tweak to get to function.
+
 ## Links
 
 * **Visit [our website](https://irisshaders.net) for downloads and pretty screenshots!**
